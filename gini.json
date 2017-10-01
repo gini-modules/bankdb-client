@@ -2,6 +2,8 @@
     "id": "bankdb-client",
     "name": "BankDB Client",
     "description": "BankDB Client to access BankDB service",
-    "version": "0.1.10",
-    "dependencies": {}
+    "version": "0.1.0",
+    "dependencies": {
+        "gini": "*"
+    }
 }
