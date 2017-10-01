@@ -1,8 +1,8 @@
 <?php
 
-namespace Gini\BankDB;
+namespace Gini;
 
-class Client
+class BankDB
 {
     public static function getRPC()
     {
