@@ -1,0 +1,5 @@
+---
+rpc:
+  bankdb:
+    url: http://bankdb.labmai.com/api
+...

@@ -1,0 +1,7 @@
+{
+    "id": "bankdb-client",
+    "name": "BankDB Client",
+    "description": "BankDB Client to access BankDB service",
+    "version": "0.1.10",
+    "dependencies": {}
+}
