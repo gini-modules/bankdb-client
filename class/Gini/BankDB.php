@@ -11,11 +11,11 @@ class BankDB
 
     public static function getBranch($name)
     {
-        return self::getRPC()->Bank->getBranch($name);
+        return self::getRPC()->BankDB->getBranch($name);
     }
 
     public static function getBranches($criteria) {
-        return self::getRPC()->Bank->getBranches($criteria);
+        return self::getRPC()->BankDB->getBranches($criteria);
     }
     
 }
