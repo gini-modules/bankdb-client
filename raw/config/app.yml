@@ -1,5 +1,5 @@
 ---
 rpc:
   bankdb:
-    url: http://bankdb.labmai.com/api
+    url: ${BANKDB_API:='http://bankdb.labmai.com/api'}
 ...
