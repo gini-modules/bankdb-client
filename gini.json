@@ -2,8 +2,9 @@
     "id": "bankdb-client",
     "name": "BankDB Client",
     "description": "BankDB Client to access BankDB service",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "dependencies": {
         "gini": "*"
-    }
+    },
+    "moduleClass": "\\Gini\\Module\\bankdbclient"
 }
